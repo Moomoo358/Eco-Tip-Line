@@ -1,0 +1,25 @@
+h1 {
+  color: green;
+  font: arial;
+}
+
+h2 {
+  color:green;
+  font: arial;
+}
+
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+input {
+  padding: 10px 25px;
+  font-size: 16px;
+}
