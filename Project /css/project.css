@@ -21,7 +21,7 @@ button {
 }
 
 button:hover {
-            background-color: green;
+            background-color: DarkGreen;
             color: white;
             border: 3px solid white;
 }
@@ -32,7 +32,7 @@ input {
 }
 
 #content {
-    background-color: Green;
+    background-color: DarkGreen;
     width: 700px;
     min-height: 450px;
     padding: 5px;
