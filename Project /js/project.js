@@ -1,15 +1,15 @@
 
 var tip-options function (){
-  if ("Household") {
+  if ("household") {
     console.log(data);
 
-  } else if ("Transportation") {
+  } else if ("transportation") {
       console.log(data);
 
-  } else if ("Health") {
+  } else if ("health") {
       console.log(data);
 
-  } else if ("Food")
+  } else if ("food")
     console.log(data)
 
 
